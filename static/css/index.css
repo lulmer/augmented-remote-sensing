@@ -125,3 +125,14 @@ body {
 .eql-cntrb { 
   font-size: smaller;
 }
+
+#abstract-section {
+  background-color: #d8d8d8; /* Use the grey color of your choice */
+  padding: 20px; /* Optional: Add padding for better readability */
+}
+
+.carousel-img {
+  max-width: 100%; /* Set the maximum width for your carousel */
+  max-height: 60vh; /* Set the maximum height for your carousel */
+  margin: 0 auto; /* Center the carousel horizontally */
+}
