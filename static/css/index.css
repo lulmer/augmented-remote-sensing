@@ -27,10 +27,6 @@ body {
   font-family: 'Google Sans', sans-serif;
 }
 
-
-.publication-title {
-}
-
 .publication-banner {
   max-height: parent;
 
@@ -65,9 +61,6 @@ body {
     color: #ff3860;
     width: fit-content;
     font-weight: bolder;
-}
-
-.publication-authors {
 }
 
 .publication-authors a {
@@ -132,6 +125,3 @@ body {
 .eql-cntrb { 
   font-size: smaller;
 }
-
-
-
