@@ -137,7 +137,8 @@ body {
   margin: 0 auto; /* Center the carousel horizontally */
 }
 
-.carousel-img {
+.logo-img {
+  align-items: center;
   max-width: 20vh; /* Set the maximum width for your carousel */
   max-height: 20vh; /* Set the maximum height for your carousel */
   margin: 0 auto; /* Center the carousel horizontally */
