@@ -19,3 +19,13 @@ $(document).ready(function() {
     bulmaSlider.attach();
 
 })
+
+function showFullScreen(img) {
+	img.style.width = "100vw";
+	img.style.height = "100vh";
+	img.style.position = "fixed";
+	img.style.top = "0";
+	img.style.left = "0";
+	img.style.zIndex = "9999";
+	img.style.cursor = "zoom-out";
+  }
