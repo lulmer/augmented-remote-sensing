@@ -136,3 +136,9 @@ body {
   max-height: 60vh; /* Set the maximum height for your carousel */
   margin: 0 auto; /* Center the carousel horizontally */
 }
+
+.carousel-img {
+  max-width: 20vh; /* Set the maximum width for your carousel */
+  max-height: 20vh; /* Set the maximum height for your carousel */
+  margin: 0 auto; /* Center the carousel horizontally */
+}
