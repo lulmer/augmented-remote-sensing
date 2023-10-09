@@ -138,8 +138,10 @@ body {
 }
 
 .logo-img {
-  align-items: center;
-  max-width: 20vh; /* Set the maximum width for your carousel */
-  max-height: 20vh; /* Set the maximum height for your carousel */
-  margin: 0 auto; /* Center the carousel horizontally */
-}
+  display: flex; /* Utilisez flexbox pour centrer l'image */
+  justify-content: center; /* Centre horizontalement l'image */
+  align-items: center; /* Centre verticalement l'image */
+  max-width: 20%; /* Définissez la largeur maximale de votre image à 20% de la fenêtre */
+  max-height: 20%; /* Définissez la hauteur maximale de votre image à 20% de la fenêtre */
+  margin: 0 auto; /* Centre l'image horizontalement */
+  }
